@@ -1,1 +1,2 @@
-print("abcdefghijklmnopqrstuvwxyz")
+alphabet="abcdefghijklmnopqrstuvwxyz"
+print(alphabet)
