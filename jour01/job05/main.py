@@ -1,1 +1,3 @@
-print("zyxwvutsrqponmlkjihgfedcba")
+alphabet="abcdefghijklmnopqrstuvwxyz"
+
+print(alphabet[::-1])
